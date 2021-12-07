@@ -1,0 +1,1 @@
+this is a vite reactjs socket io project.
