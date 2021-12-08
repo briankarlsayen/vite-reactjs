@@ -40,3 +40,26 @@
 button {
   font-size: calc(10px + 2vmin);
 }
+
+.roomCard:hover {
+  cursor: pointer;
+  background-color: lightblue !important;
+}
+
+.whiteSpace {
+  padding: 0 12em;
+}
+
+.chat {
+  position: relative;
+}
+
+.chat__box {
+  height: 50vh;
+  border: 1px solid black;
+}
+
+.chatSubmit {
+  top: 0px;
+  left: 0px;
+}
